@@ -13,6 +13,7 @@
         <meta name="og:type" content="product" />
         <meta name="og:description" content="KOITOTO adalah platform digital terpercaya yang menyediakan layanan taruhan toto Togel 4D resmi di indonesia dan memberikan pengalaman bermain paling aman dan transparan." />
         <meta name="google-site-verification" content="Jk6dQg1tbfbD7WyyQMoIkikR5W_wCI2UMAWA4gHpn-o" />
+        <meta name="google-site-verification" content="B9teqHJVGz9aTtoQkgJdpDtEnB9oZ_zW0Ltvd4cH3D0" />
         <meta name="og:image" content="https://goodimg.io/images/2025/05/25/terbaik_500x500.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/26/favicon-koi-new-3b4cb9479da83ab30.png" />
